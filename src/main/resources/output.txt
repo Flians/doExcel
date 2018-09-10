@@ -1,0 +1,464 @@
+Data dump:
+Sheet 0 "TestSheet1" has 30 row(s).
+
+ROW 0 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=1.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=NUMERIC value=43250.6030787037
+
+ROW 1 has 2 cell(s).
+0:0:0
+新宋体
+border: 
+	Top:MEDIUM; color: 64
+	Bottom: MEDIUM; color: 64
+	Left: MEDIUM; color: 64
+	Right: MEDIUM; color: 64
+CELL col=0 VALUE=NUMERIC value=2.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=STRING value=#2
+
+ROW 2 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:MEDIUM; color: 64
+	Bottom: HAIR; color: 10
+	Left: NONE; color: 64
+	Right: THIN; color: 64
+CELL col=0 VALUE=NUMERIC value=3.0
+0:0:0
+Arial
+border: 
+	Top:THIN; color: 64
+	Bottom: THIN; color: 64
+	Left: THIN; color: 64
+	Right: THIN; color: 64
+CELL col=1 VALUE=STRING value=#3
+
+ROW 3 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 64
+	Bottom: THIN; color: 10
+	Left: THIN; color: 10
+	Right: THIN; color: 10
+CELL col=0 VALUE=NUMERIC value=4.0
+0:0:0
+Arial
+border: 
+	Top:THIN; color: 64
+	Bottom: HAIR; color: 10
+	Left: THIN; color: 10
+	Right: NONE; color: 64
+CELL col=1 VALUE=STRING value=#4
+
+ROW 4 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=5.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=STRING value=#5
+
+ROW 5 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=6.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=<BLANK>
+
+ROW 6 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=7.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=STRING value=#7
+aaaaaaaaaaaaaaaaaaaaaa
+dasdasdasdas
+
+ROW 7 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=8.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=STRING value=#8
+
+ROW 8 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=<BLANK>
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=STRING value=#9
+
+ROW 9 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=<BLANK>
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=STRING value=#10
+
+ROW 10 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=11.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=STRING value=#11
+
+ROW 11 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=12.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=<BLANK>
+
+ROW 12 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=<BLANK>
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=<BLANK>
+
+ROW 13 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=14.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=NUMERIC value=1.8881814693E10
+
+ROW 14 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=15.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=NUMERIC value=1.88818146931888E21
+
+ROW 15 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=16.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=STRING value=1888181469318881814693
+
+ROW 16 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=17.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=NUMERIC value=1.88818146931888E21
+
+ROW 17 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=18.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=NUMERIC value=1.88818146931888E21
+
+ROW 18 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=19.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=NUMERIC value=1.88818146931888E21
+
+ROW 19 has 2 cell(s).
+FFFF:FFFF:0
+微软雅黑
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=20.0
+FFFF:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=STRING value=#20
+
+ROW 20 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=21.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=NUMERIC value=43250.6030787037
+
+ROW 21 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=22.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=NUMERIC value=43250.6030787037
+
+ROW 22 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=23.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=NUMERIC value=43250.6030787037
+
+ROW 23 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=24.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=NUMERIC value=0.52
+
+ROW 24 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 VALUE=NUMERIC value=25.0
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=1 VALUE=NUMERIC value=1.88818146931888E21
+
+ROW 25 has 2 cell(s).
+0:0:0
+Arial
+border: 
+	Top:NONE; color: 0
+	Bottom: NONE; color: 0
+	Left: NONE; color: 0
+	Right: NONE; color: 0
+CELL col=0 
